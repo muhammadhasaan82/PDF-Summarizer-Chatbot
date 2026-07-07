@@ -481,8 +481,8 @@ Check that:
 
 ## Author
 
-**Muhammad Hasaan**  
-AI / ML Engineer  
+Made with love by **Muhammad Hasaan**  
+AI / ML Engineer  & Data Scientist
 Email: `muhammadhasaan82@gmail.com`
 
 ---
